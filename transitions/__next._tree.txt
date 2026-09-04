@@ -18,4 +18,4 @@
 :HL["/liv-issue-01/_next/static/media/Gabriele_DarkRibbon-s.p.1vizjosuu3-f9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/liv-issue-01/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/liv-issue-01/_next/static/media/e1d05e69696bf0b3.p.0ol2-o5vbcxvb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"transitions","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Fq88hLAWjJb3CnPayWaCk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"transitions","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ZH9YRHc4d9Hj9SZnXmYLQ"}
