@@ -1,4 +1,4 @@
-:HL["/liv-issue-01/_next/static/chunks/0ow10s1awvkso.css","style"]
+:HL["/liv-issue-01/_next/static/chunks/1e4xh_1_s9kx6.css","style"]
 :HL["/liv-issue-01/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/liv-issue-01/_next/static/media/31a9145ccb84606d-s.p.3j3x29wbycqkn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/liv-issue-01/_next/static/media/52b5d5098cb87ddd-s.p.3r2y_bth_sjsm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -18,4 +18,4 @@
 :HL["/liv-issue-01/_next/static/media/Gabriele_DarkRibbon-s.p.1vizjosuu3-f9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/liv-issue-01/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/liv-issue-01/_next/static/media/e1d05e69696bf0b3.p.0ol2-o5vbcxvb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ZH9YRHc4d9Hj9SZnXmYLQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"dO8yQz4DI0-Zvo6355R5H"}
