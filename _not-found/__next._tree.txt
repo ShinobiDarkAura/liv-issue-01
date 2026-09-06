@@ -1,2 +1,2 @@
-:HL["/liv-issue-01/_next/static/chunks/1e4xh_1_s9kx6.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"dO8yQz4DI0-Zvo6355R5H"}
+:HL["/liv-issue-01/_next/static/chunks/10k72u0uy1_bk.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"VrqebsijryiItVnqEJnlo"}
